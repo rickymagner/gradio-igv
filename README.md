@@ -99,4 +99,4 @@ This is a convenience object you can create using the same filenames and loci as
 ## Recipes
 
 Be sure to check out the recipes directory for more full examples of how to use the library, along with some tools that might be useful, including:
-- `sv-breakend-visualizer.py`: A tool to visualize structural variant breakends in IGV with statistics on reads covering the edges.
+- [SV-Breakpoint-Visualizer](recipes/SV-Breakpoint-Visualizer/README.md): A tool to visualize structural variant breakpoints in IGV with statistics on reads covering the edges.
