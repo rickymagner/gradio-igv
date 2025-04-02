@@ -1,4 +1,4 @@
-# Description: A Gradio recipe to visualize structural variants with breakends in IGV.
+# Description: A Gradio recipe to visualize structural variants with breakpoints in IGV.
 # Note: Requires plotly to be installed. Install it using `pip install plotly`.
 
 import argparse

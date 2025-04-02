@@ -1,4 +1,4 @@
-# SV Breakend Visualizer
+# SV Breakpoint Visualizer
 
 This is a recipe for a small app that can help plot some statistics about SV breakpoints while visualizing the read and variant data.
 
