@@ -3,6 +3,8 @@
 
 Embed IGV.js in your app to visualize genomics data.
 
+![IGV Demo Screenshot](images/demo.png)
+
 ## Installation
 
 ```bash
