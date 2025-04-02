@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "esnext",
+      "verbatimModuleSyntax": true,
+      "strict": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "skipLibCheck": true,
+      "resolveJsonModule": true,
+      "types": ["svelte"],
+      "baseUrl": ".",
+      "typeRoots": [
+        "custom_types",
+        "node_modules/@types"
+      ]
+    },
+    "include": ["src/**/*", "*.svelte"],
+    "exclude": ["node_modules"]
+}

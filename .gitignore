@@ -1,0 +1,6 @@
+.idea/
+dist/
+venv/
+frontend/node_modules/
+*__pycache__/
+backend/gradio_igv/templates/

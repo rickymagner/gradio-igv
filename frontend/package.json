@@ -1,0 +1,47 @@
+{
+  "name": "gradio_igv",
+  "version": "0.4.15",
+  "description": "Gradio UI packages",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "private": false,
+  "main_changeset": true,
+  "exports": {
+    ".": {
+      "gradio": "./Index.svelte",
+      "svelte": "./dist/Index.svelte",
+      "types": "./dist/Index.svelte.d.ts"
+    },
+    "./example": {
+      "gradio": "./Example.svelte",
+      "svelte": "./dist/Example.svelte",
+      "types": "./dist/Example.svelte.d.ts"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@gradio/atoms": "0.14.0",
+    "@gradio/button": "^0.4.10",
+    "@gradio/client": "^1.13.1",
+    "@gradio/icons": "^0.10.0",
+    "@gradio/statustracker": "0.10.5",
+    "@gradio/upload": "^0.15.5",
+    "@gradio/utils": "0.10.1",
+    "igv": "^3.2.4"
+  },
+  "devDependencies": {
+    "@gradio/preview": "0.13.0",
+    "@tsconfig/svelte": "^5.0.4",
+    "svelte-preprocess": "^6.0.3",
+    "typescript": "^5.8.2"
+  },
+  "peerDependencies": {
+    "svelte": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradio-app/gradio.git",
+    "directory": "js/fallback"
+  }
+}
