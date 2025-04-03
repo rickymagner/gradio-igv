@@ -1,3 +1,15 @@
+---
+title: Gradio-IGV
+emoji: 🧬
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 5.23.3
+app_file: app.py
+pinned: false
+license: bsd-3-clause
+---
+
 # gradio-igv
 <img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.0.1%20-%20orange">  
 
