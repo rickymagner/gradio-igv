@@ -21,7 +21,7 @@ with gr.Blocks(
 # `gradio_igv`
 
 <div style="display: flex; gap: 7px;">
-<img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.0.1%20-%20orange">  
+<img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.1.0%20-%20orange">  
 </div>
 
 Embed IGV.js in your app to visualize genomics data.

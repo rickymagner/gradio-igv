@@ -1,3 +1,4 @@
+<!--
 ---
 title: Gradio-IGV
 emoji: 🧬
@@ -9,9 +10,10 @@ app_file: app.py
 pinned: false
 license: bsd-3-clause
 ---
+-->
 
 # gradio-igv
-<img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.0.1%20-%20orange">  
+<img alt="Static Badge" src="https://img.shields.io/badge/version%20-%200.1.0%20-%20orange">  
 
 Embed IGV.js in your app to visualize genomics data.
 
